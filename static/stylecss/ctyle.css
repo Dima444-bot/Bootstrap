@@ -1,0 +1,49 @@
+.container {
+    font-family: 'Manrope', sans-serif;
+    background: #fff;
+    border: 2px;
+    color: #18191F;
+}
+
+div.col {
+    padding-top: 5px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+div.col-8 {
+    padding-bottom: 10px;
+    text-align: right;
+}
+
+div.col-8 a {
+   padding-left: 10px;
+   text-decoration: none;
+   color: #18191F;
+   font-weight: 600;
+   margin-left: 30px;
+}
+
+div.col-8 button {
+    margin-left: 15px;
+    padding-top: 5px;
+    color: blanchedalmond;
+}
+
+div.images {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    padding-top: 5%;
+}
+
+img.headicon {
+    margin: 0;
+    margin-left: auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    width: 800;
+}
